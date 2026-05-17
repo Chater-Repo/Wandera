@@ -117,7 +117,6 @@ npm run tauri build   # production build → src-tauri/target/release/bundle/
 
 Each request fetches public data only. No trip information ever leaves your machine.
 
-## License
 
 
 
