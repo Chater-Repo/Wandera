@@ -119,7 +119,7 @@ Each request fetches public data only. No trip information ever leaves your mach
 
 ## License
 
-[MIT](LICENSE) — free to use, fork and modify.
+
 
 ---
 
